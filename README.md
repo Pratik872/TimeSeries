@@ -7,4 +7,4 @@ _Note: Data used in the projects is for demonstration purposes only._
 
 - ### Projects:
 
-	- [Sales Forecasting](https://github.com/Pratik872/ML/tree/main/E2E%20Project/FlightFarePredictor): The dataset contains about 10682 records for various airlines and their details. I have built a model to predict the flight fares based on the feaatures. Click on the link for more details.
+	- [Sales Forecasting](https://github.com/Pratik872/TimeSeries/tree/main/Sales%20Forecasting): This dataset consists the records of a European drug seller 'Rossmann' who has over 3000 drug stores across European countries. I have built a model to forecast the sales of one of the drug stores. Click on the link for more details.
