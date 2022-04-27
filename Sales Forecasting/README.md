@@ -62,9 +62,7 @@ Please check [here](https://www.kaggle.com/c/rossmann-store-sales) for more deta
 - The plots for 'Customers' are :
 ![CustomersDecomp](https://github.com/Pratik872/TimeSeries/blob/main/Sales%20Forecasting/readme%20resources/customers%20decompose.png)
 
-- As we can see for both the plots, we don't have an increading/decreasing trend as such i.e the series seems to be stationary, but still I have checked for stationarity using Adfuller test afterwards.
-
-- Also we can see that there is also no seasonality as such and hence we would not be training SARIMA/SARIMAX models
+- As we can see for both the plots, we don't have an increading/decreasing trend as such i.e the series seems to be stationary, but still I have checked for stationarity using Adfuller test afterwards. 
 
 ### Data Stationarity Check:
 - As weknow that the series needs to be stationary to be fed into the models, I have done stationarity test i.e AdFuller which is based on hypothesis testing.
